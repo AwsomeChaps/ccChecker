@@ -1,0 +1,5 @@
+ccNumber, Issuers, Validity, Check Digit
+5610591081018250, MasterCard, y, 0
+5019551439824589, MasterCard, y, 9
+6011954642315834, Discover, y, 4
+2221542318942137, N/A, n, N/A
